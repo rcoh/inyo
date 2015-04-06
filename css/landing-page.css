@@ -174,3 +174,9 @@ p.copyright {
     border-radius: 100px;
 
 }
+
+.rocket {
+    height: 500px;
+    border-radius: 100px;
+    margin-left: 50px;
+}
